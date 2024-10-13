@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{44306462-7C94-41B1-9246-CAD1BD1E1B2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint2.Task1V5", "Tyuiu.KalashnikovPI.Sprint2.Task1V5\Tyuiu.KalashnikovPI.Sprint2.Task1V5.csproj", "{350F60B6-F1B5-421D-ABA4-8E132B66BD16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint2.Task1.V5", "Tyuiu.KalashnikovPI.Sprint2.Task1V5\Tyuiu.KalashnikovPI.Sprint2.Task1.V5.csproj", "{350F60B6-F1B5-421D-ABA4-8E132B66BD16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint2.Task1V5.Lib", "Tyuiu.KalashnikovPI.Sprint2.Task1V5.Lib\Tyuiu.KalashnikovPI.Sprint2.Task1V5.Lib.csproj", "{E3120E53-DC4E-402B-9E29-5CF22001D097}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint2.Task1.V5.Lib", "Tyuiu.KalashnikovPI.Sprint2.Task1V5.Lib\Tyuiu.KalashnikovPI.Sprint2.Task1.V5.Lib.csproj", "{E3120E53-DC4E-402B-9E29-5CF22001D097}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint2.Task1V5.Test", "Tyuiu.KalashnikovPI.Sprint2.Task1V5.Test\Tyuiu.KalashnikovPI.Sprint2.Task1V5.Test.csproj", "{83D4520E-C1CD-4515-937A-A0E075EB2E1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KalashnikovPI.Sprint2.Task1.V5.Test", "Tyuiu.KalashnikovPI.Sprint2.Task1V5.Test\Tyuiu.KalashnikovPI.Sprint2.Task1.V5.Test.csproj", "{83D4520E-C1CD-4515-937A-A0E075EB2E1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
