@@ -7,7 +7,7 @@ namespace Tyuiu.KalashnikovPI.Sprint2.Task2.V16.Lib
         {
             bool res;
 
-            if ((x >= 3) && (x <= 5) && (y >= 3) && (y <= 7))
+            if ((x >= 3) && (x <= 13) && (y >= 3) && (y <= 13))
             {
                 res = true;
             }
