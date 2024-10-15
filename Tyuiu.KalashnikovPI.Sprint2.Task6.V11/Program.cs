@@ -46,7 +46,7 @@ namespace Tyuiu.KalashnikovPI.Sprint2.Task6.V11
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(res);
+            Console.WriteLine($"{res:##.##.####}");
 
             Console.ReadKey();
         }
